@@ -8,3 +8,4 @@ Skips directories and only processes files.
 Fully customizable categories and extensions.
 Requirements
 Python 3.6 or higher
+..
