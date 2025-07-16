@@ -1,4 +1,4 @@
--File Organizer
+--File Organizer
 A Python script to organize files in a specified folder into subfolders based on their file types. This tool is perfect for decluttering directories and keeping your files sorted.
 
 Features
